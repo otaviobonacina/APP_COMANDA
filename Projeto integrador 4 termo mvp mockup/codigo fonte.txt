@@ -89,7 +89,7 @@
                 Total a pagar: R$${total}%0A
                 Forma de pagamento: ${formpag}%0A
                 `;
-                const linkWhatsApp = `https://wa.me/5514991267196?text=${message}`;
+                const linkWhatsApp = `https://wa.me/55 NUMERO DO TELEFONE A SER ENVIADA A MENSAGEM?text=${message}`;
 
 			window.open(linkWhatsApp);
 		
